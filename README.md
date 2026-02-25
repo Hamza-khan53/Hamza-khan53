@@ -48,16 +48,11 @@ Stacks, Queues, Linked Lists, Graphs, Trees, and more.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-khan53&layout=compact&theme=tokyonight)
 
----
-
-## ✨ Fun Facts
-- ⚡ I love nature, cars, and K-drama.
-- 🎥 I run a YouTube channel named **Natural Whisper**.
 
 ---
 
 ## 🤝 Let's Connect
 - 💼 GitHub: **Hamza-khan53**
-- 📧 Email: **hamzakhan53744@gmail.com**
+- 📧 Email: **drhamxakhan@gmail.com**
 
 Thanks for stopping by! 😄
