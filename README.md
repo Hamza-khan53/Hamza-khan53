@@ -1,58 +1,61 @@
-# Hi there, I'm Hamza Khan 👋
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Hamza+Khan;Software+Engineering+Student;Machine+Learning+Learner;Android+Developer+(Java)&center=true&width=500&height=40">
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building cool projects, exploring new technologies, and continuously improving my skills.
+## 👨‍💻 About Me
+🎓 Software Engineering Student  
+🤖 Learning **Machine Learning**  
+📱 Learning **Android Development (Java)**  
+💻 Interested in **AI, Software Development, and System Programming**
 
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **Online Shopping App like Temu**, **AI-based Projects**, and **System Programming Projects**.
-- 🌱 I’m learning **Data Structures**, **Machine Learning**, **Full-Stack Development**, and **DevOps Tools**.
-- 👯 I’m open to collaborating on **Web Development**, **AI/ML**, and **Open-Source Projects**.
-- 💬 Ask me about **DSA**, **Frontend/Backend Development**, **AI Models**, **Tailwind CSS**, **Java**, **Python**, or **Assembly (8086)**.
-- 📫 Reach me at: **hamzakhan53744@gmail.com**
+📧 Email: **drhamxakhan@gmail.com**
 
 ---
 
-## 🛠️ Technologies & Tools
-### **Languages:**
-`C` · `C++` · `Python` · `Java` · `JavaScript` · `Assembly (8086)`
+## 🛠️ Tech Stack
 
-### **Web Development:**
-`HTML` · `CSS` · `Tailwind` · `React` · `Node.js`
+### Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### **AI & Data Science:**
-`NumPy` · `Pandas` · `Scikit-Learn` · `Matplotlib`
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
-### **Other Tools:**
-`Git` · `GitHub` · `VS Code` · `Jenkins` · `Figma` · `MySQL`
-
----
-
-## 📌 Featured Projects
-### 🛒 **Online Shopping App (Temu Clone)**
-A high-level architecture, HCI prototype, and backend design involving patterns like Strategy, Observer, and Repository.
-
-### 🧠 **House Price Prediction**
-AI project using machine learning to predict prices based on financial datasets.
-
-### 📚 **Health Care Management System**
-A complete management system with scheduling, patient data handling, and reporting.
-
-### 🧮 **DSA Projects**
-Stacks, Queues, Linked Lists, Graphs, Trees, and more.
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=androidstudio)
 
 ---
 
 ## 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-khan53&show_icons=true&theme=tokyonight)
+
+![Hamza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-khan53&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-khan53&layout=compact&theme=tokyonight)
 
+---
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamza-khan53&theme=tokyo-night)
 
 ---
 
-## 🤝 Let's Connect
-- 💼 GitHub: **Hamza-khan53**
-- 📧 Email: **drhamxakhan@gmail.com**
+## 🎮 Projects
 
-Thanks for stopping by! 😄
+🛒 Online Shopping App (Temu Clone)  
+🤖 House Price Prediction (Machine Learning)  
+🏥 Health Care Management System  
+📚 Data Structures Implementations  
+👾 Space Shooter Game (2D Game Development)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
