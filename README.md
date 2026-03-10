@@ -48,13 +48,81 @@
 
 ---
 
-## 🎮 Projects
+## 🚀 Featured Projects
 
-🛒 Online Shopping App (Temu Clone)  
-🤖 House Price Prediction (Machine Learning)  
-🏥 Health Care Management System  
-📚 Data Structures Implementations  
-👾 Space Shooter Game (2D Game Development)
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Online Shopping App (Temu Clone)
+
+<img src="images/temu-app.png" width="100%"/>
+
+AI-powered shopping application inspired by Temu with product browsing, cart system, recommendations, and order tracking.
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+</td>
+<td width="50%">
+
+### 🤖 House Price Prediction
+
+<img src="images/house-price.png" width="100%"/>
+
+Machine learning model that predicts housing prices using regression and real estate datasets.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 Health Care Management System
+
+<img src="images/health-system.png" width="100%"/>
+
+A digital system for managing patients, appointments, and hospital records efficiently.
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Database](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+
+
+
+</td>
+<td width="50%">
+
+### 👾 Space Shooter Game
+
+<img src="images/space-shooter.png" width="100%"/>
+
+A 2D arcade space shooter game developed using SFML with enemy AI and shooting mechanics.
+
+**Tech Stack**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
+
+
+
+</td>
+</tr>
+</table>
 
 ---
 
